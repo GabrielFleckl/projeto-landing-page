@@ -153,7 +153,6 @@ main {
     background-color: #60d612;
     box-shadow: 0px 0px 1px 1px #ffffff32;
     border: 1px solid #DDD1C7;
-    transition: 0.3s;
 }
 
 .btns button:hover:before {
