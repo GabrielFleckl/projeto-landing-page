@@ -28,6 +28,7 @@ body {
     background-position-y: 0px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
 
 
@@ -189,6 +190,15 @@ main {
         position: relative;
         font-weight: 600;
     }
-
-    
 }
+
+@media screen and (max-width: 450px){
+    html{
+        font-size: 53.5%;
+    }
+    .menu-content{
+        font-size: 1.6rem;
+    }
+
+}
+
