@@ -14,11 +14,9 @@
 
 html {
     width: 100vw;
-    height: 93vh;
     font-size: 62.5%;
     color: white;
     font-family: 'Lato', sans-serif;
-    scroll-behavior: smooth;
 }
 
 body {
@@ -28,7 +26,7 @@ body {
     background-position-y: 0px;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    max-height: 100vh;
+    
     
 }
 
