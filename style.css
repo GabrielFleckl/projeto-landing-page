@@ -199,6 +199,8 @@ main {
     .menu-content{
         font-size: 1.6rem;
     }
-
+    body{
+        width: 100%;
+        min-height: 100vh;
+    }
 }
-
