@@ -14,7 +14,7 @@
 
 html {
     width: 100vw;
-    height: 100vh;
+    height: 93vh;
     font-size: 62.5%;
     color: white;
     font-family: 'Lato', sans-serif;
@@ -192,15 +192,12 @@ main {
     }
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 470px){
     html{
         font-size: 53.5%;
     }
     .menu-content{
         font-size: 1.6rem;
     }
-    body{
-        width: 100%;
-        min-height: 100vh;
-    }
+    
 }
