@@ -33,8 +33,6 @@ body {
 
 header {
     width: 100%;
-    max-width: 2560px;
-    min-width: 720px;
     height: 7vh;
     background-color: rgba(22, 22, 22, 0.2);
 }
@@ -173,9 +171,24 @@ main {
     }
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
     .btns{
         display: flex;
         flex-direction: column;
     }
+    .menu-content {
+        display: flex;
+        align-items: center;
+    }
+    .menu-content .list-itens a {
+        text-decoration: none;
+        color: white;
+        margin: 0px 1px 0px 1px;
+        padding: 1px;
+        transform: 2ms ease-in;
+        position: relative;
+        font-weight: 600;
+    }
+
+    
 }
