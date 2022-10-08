@@ -17,17 +17,11 @@
 
 Aqui você pode conferir o layout em suas respectivas versões.
 
-<h2 align="left">
-  Versão Web
-</h2>
+### Versão Web
 <br>
-<p align="center">
   <img alt="layout-web" src="img/Layout-web.png" width="100%">
-</p>
 
-<h2 align="left">
-  Versão Mobile
-</h2>
+### Versão Mobile
 <br>
 <p align="center">
   <img alt="layout-web" src="img/mobile.jpg" width="40%">
