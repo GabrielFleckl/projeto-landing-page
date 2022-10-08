@@ -30,7 +30,7 @@ Aqui você pode conferir o layout em suas respectivas versões.
 </h2>
 <br>
 <p align="center">
-  <img alt="layout-web" src="img/mobile.jpg" width="50%">
+  <img alt="layout-web" src="img/mobile.jpg" width="40%">
 </p>
 
 ## 🚀 Tecnologias
