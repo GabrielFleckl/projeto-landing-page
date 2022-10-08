@@ -13,6 +13,10 @@
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+## 🎨 Layout
+
+Aqui você pode conferir o layout em suas respectivas versões.
+
 <h2 align="left">
   Versão Web
 </h2>
