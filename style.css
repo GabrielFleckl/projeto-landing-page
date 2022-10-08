@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
 @font-face {
     font-family: Anurati;
     src: url(font/Anurati-Regular.otf);
@@ -26,6 +27,7 @@ body {
     background-position-y: 0px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    overflow: hidden;
 }
 
 
@@ -51,7 +53,7 @@ header {
     letter-spacing: 0.4rem;
     cursor: pointer;
     font-family: Anurati;
-    
+
 }
 
 .logo:hover {
@@ -155,29 +157,31 @@ main {
     width: 100%;
 }
 
-@media screen and (max-width: 980px){
-    .menu-content{
+@media screen and (max-width: 980px) {
+    .menu-content {
         display: flex;
         flex-direction: column;
         flex: 1;
     }
 }
 
-@media screen and (max-width: 830px){
-    .primary-text{
+@media screen and (max-width: 830px) {
+    .primary-text {
         width: 95%;
     }
 }
 
-@media screen and (max-width: 700px){
-    .btns{
+@media screen and (max-width: 700px) {
+    .btns {
         display: flex;
         flex-direction: column;
     }
+
     .menu-content {
         display: flex;
         align-items: center;
     }
+
     .menu-content .list-itens a {
         text-decoration: none;
         color: white;
@@ -189,12 +193,13 @@ main {
     }
 }
 
-@media screen and (max-width: 470px){
-    html{
+@media screen and (max-width: 470px) {
+    html {
         font-size: 53.5%;
     }
-    .menu-content{
+
+    .menu-content {
         font-size: 1.6rem;
     }
-    
+
 }
