@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Academia Equilibrium é um projeto de landing page visando exercitar meus aprendizados sobre HTML, CSS e principalmente utilizando o FLEXBOX 🏋️‍♂️.
+Academia Equilibrium é um projeto de landing page visando exercitar meus aprendizados sobre HTML, CSS e principalmente utilizando o método de alinhamento Flexbox 🏋️‍♂️.
 
 ## 📝 Licença
 

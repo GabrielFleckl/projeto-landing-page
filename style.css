@@ -53,12 +53,12 @@ header {
     letter-spacing: 0.4rem;
     cursor: pointer;
     font-family: Anurati;
-
+    transition: 0.5s;
 }
 
 .logo:hover {
     text-shadow: 0em 0em 0.3em #DDD1C7;
-    transition: 0.5s
+    transition-duration: 0.5s;
 }
 
 .menu-content .list-itens {
