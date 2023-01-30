@@ -1,5 +1,5 @@
 <h1 align="center">
-  Academia Equilibrium
+  Academia Equilibrium 🏋️‍♀️
 </h1>
 
 <p align="center">
