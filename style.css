@@ -30,7 +30,6 @@ body {
     overflow: hidden;
 }
 
-
 header {
     width: 100%;
     height: 7vh;
@@ -74,6 +73,14 @@ header {
     transform: 2ms ease-in;
     position: relative;
     font-weight: 600;
+    transition: 0.3s;
+}
+
+.menu-content .list-itens a:hover {
+    color: #d1bfb1;
+    transition-duration: .3s;
+    
+    
 }
 
 .menu-content .list-itens a:before {
